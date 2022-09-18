@@ -1,0 +1,59 @@
+{
+    "roulette":[
+        {
+            "text": "zero",
+            "color": "green",
+            "number": 0
+        },
+        {
+            "text" : "one",
+            "color": "red",
+            "number": 1
+        },
+        {
+            "text":"two",
+            "color": "black",
+            "number": 2
+        },
+        {
+            "text":"three",
+            "color": "red",
+            "number": 3
+        },
+        {
+            "text":"four",
+            "color": "black",
+            "number": 4
+        },
+        {
+            "text":"five",
+            "color": "red",
+            "number": 5
+        },
+        {
+            "text":"six",
+            "color": "black",
+            "number": 6
+        },
+        {
+            "text":"seven",
+            "color": "red",
+            "number": 7
+        },
+        {
+            "text":"eigth",
+            "color": "black",
+            "number": 8
+        },
+        {
+            "text":"nine",
+            "color": "red",
+            "number": 9
+        },
+        {
+            "text":"ten",
+            "color": "black",
+            "number": 10
+        }
+    ]
+}
