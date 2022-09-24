@@ -1,5 +1,5 @@
-const { generateNumber } = require('./src/utils/numberGenerator');
+const { betProccess } = require('./src/controller/betProcess');
 
-const infiniteBets = () => setInterval(generateNumber, 2000);
+const infiniteBets = () => setInterval(async () => betProccess(), 2000);
 
 infiniteBets();

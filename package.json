@@ -18,7 +18,11 @@
     "url": "https://github.com/kaioso20/betsSystem/issues"
   },
   "homepage": "https://github.com/kaioso20/betsSystem#readme",
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.1"
+  },
   "devDependencies": {
     "eslint": "^8.23.1",
     "eslint-config-airbnb": "^19.0.4",
