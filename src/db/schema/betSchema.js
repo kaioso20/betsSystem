@@ -13,6 +13,10 @@ const betSchema = new mongoose.Schema({
     type: Number,
     required: true,
   },
+  date: {
+    type: Date,
+    required: false,
+  },
 });
 
 module.exports.betSchema = mongoose.model('betSchema', betSchema);
