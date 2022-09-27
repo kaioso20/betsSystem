@@ -54,6 +54,136 @@
             "text":"ten",
             "color": "black",
             "number": 10
+        },
+        {
+            "text" : "eleven",
+            "color": "black",
+            "number": 11
+        },
+        {
+            "text":"twelve",
+            "color": "red",
+            "number": 12
+        },
+        {
+            "text":"thirteen",
+            "color": "black",
+            "number": 13
+        },
+        {
+            "text":"fourteen",
+            "color": "red",
+            "number": 14
+        },
+        {
+            "text":"fifteen",
+            "color": "black",
+            "number": 15
+        },
+        {
+            "text":"sixteen",
+            "color": "red",
+            "number": 16
+        },
+        {
+            "text":"seventeen",
+            "color": "black",
+            "number": 17
+        },
+        {
+            "text":"eigthteen",
+            "color": "red",
+            "number": 18
+        },
+        {
+            "text":"nineteen",
+            "color": "red",
+            "number": 19
+        },
+        {
+            "text":"twenty",
+            "color": "black",
+            "number": 20
+        },
+        {
+            "text" : "twenty-one",
+            "color": "red",
+            "number": 21
+        },
+        {
+            "text":"twenty-two",
+            "color": "black",
+            "number": 22
+        },
+        {
+            "text":"twenty-three",
+            "color": "red",
+            "number": 23
+        },
+        {
+            "text":"twenty-four",
+            "color": "black",
+            "number": 24
+        },
+        {
+            "text":"twenty-five",
+            "color": "red",
+            "number": 25
+        },
+        {
+            "text":"twenty-six",
+            "color": "black",
+            "number": 26
+        },
+        {
+            "text":"twenty-seven",
+            "color": "red",
+            "number": 27
+        },
+        {
+            "text":"twenty-eigth",
+            "color": "black",
+            "number": 28
+        },
+        {
+            "text":"twenty-nine",
+            "color": "black",
+            "number": 29
+        },
+        {
+            "text":"thirty",
+            "color": "red",
+            "number": 30
+        },
+        {
+            "text" : "thirty-one",
+            "color": "black",
+            "number": 31
+        },
+        {
+            "text":"thirty-two",
+            "color": "red",
+            "number": 32
+        },
+        {
+            "text":"thirty-three",
+            "color": "black",
+            "number": 33
+        },
+        {
+            "text":"thirty-four",
+            "color": "red",
+            "number": 34
+        },
+        {
+            "text":"thirty-five",
+            "color": "black",
+            "number": 35
+        },
+        {
+            "text":"thirty-six",
+            "color": "red",
+            "number": 36
         }
     ]
 }

@@ -17,6 +17,10 @@ const betSchema = new mongoose.Schema({
     type: Date,
     required: false,
   },
+  _id: {
+    type: String,
+    required: true,
+  },
 });
 
 module.exports.betSchema = mongoose.model('betSchema', betSchema);
