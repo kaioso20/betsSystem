@@ -1,1 +1,1 @@
-module.exports.sortNumber = () => parseInt(Math.random().toFixed(1).split('.')[1]);
+module.exports.sortNumber = () => Math.floor(Math.random() * 36);
